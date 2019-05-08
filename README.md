@@ -2,7 +2,7 @@
 
 This is indicated to build an answer set for [neuronaldynamics-exercises](https://github.com/EPFL-LCN/neuronaldynamics-exercises)
 
-I am new to neuronal dynamics, the answer may be wrong.
+I am new to neuronal dynamics, the answers are probably wrong.
 
 - [x] 2. Leaky-integrate-and-fire model
 - [x] 3. The Exponential Integrate-and-Fire model
@@ -18,3 +18,6 @@ I am new to neuronal dynamics, the answer may be wrong.
 - [ ] 13. Perceptual Decision Making (Wong & Wang)
 
 For more information, see the authors' official book site [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/)
+
+# License
+GNU GPL v3
