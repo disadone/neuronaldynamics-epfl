@@ -1,4 +1,27 @@
-# neuronaldynamics-exercises-discussion
+# simulation neuroscience
+
+[course link](https://www.edx.org/course/simulation-neuroscience-epflx-simneurox)
+
+每天我会给出主要两节（不包括overview和revision）的笔记与练习可能的答案（有时候会做错而不知道答案是啥）
+
+overview和revision会“就近”给出。
+
+比如第一周中，写了Understanding the brain 和 Experimental data也会写overview
+
+讨论可以在任何时候或者集中时间，任何内容都可以，但超前我们可能没法解答。
+
+我大约会在12天后完成这个课程。
+
+里面的打分作业可以通过HBP账号访问，HBP账号在第二周中有写申请的方式。
+
+作业也会“就近”给出。
+
+如果你也写了一些笔记和代码希望分享，可以发给我。如果你会使用git，我可以加你到贡献者中。
+
+目前完成的：
+无
+
+# neuronaldynamics-book-exercises-discussion
 
 This is indicated to build an answer set for [neuronaldynamics-exercises](https://github.com/EPFL-LCN/neuronaldynamics-exercises)
 
